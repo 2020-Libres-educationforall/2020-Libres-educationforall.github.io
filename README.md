@@ -42,3 +42,11 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 #titulo 5
 #titulo 6
 Mi nombre es **Esteban Andaluz** estudio ~~sistemas~~
+
+1.  lunes 
+1.  martes 
+1.  miercoles 
+
+-  hola
+-  como
+-  estas
