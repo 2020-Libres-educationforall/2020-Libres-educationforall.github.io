@@ -50,5 +50,5 @@ Mi nombre es **Esteban Andaluz** estudio ~~sistemas~~
 -  hola
 -  como
 -  estas
-Quiero ir a [google]: (https://www.google.com/)
-Quiero ir a [google]: (https://www.google.com/ "me gusta google ") y me mostrará un texto 
+Quiero ir a [google](https://www.google.com/)
+Quiero ir a [google](https://www.google.com/ "me gusta google ") y me mostrará un texto 
