@@ -1,5 +1,5 @@
 ## Bienvenidos a Education 4 All
-#Objetivo
+# Objetivo
 Crear un foro en donde los estudiantes puedan encontrar clases ofertadas por profesores sobre materias relacionadas a la educación primaria, secundaria y universitaria, logrando crear una comunidad super amplia donde la ayuda en diferentes ámbitos de la educación es lo esencial para este proyecto.
 
 #mail
